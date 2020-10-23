@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "nls:permission": "chmod +x index.js",
     "nls:unlink": "sudo npm unlink",
     "nls:linkglobally": "sudo npm link"
   },
